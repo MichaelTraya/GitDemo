@@ -1,0 +1,35 @@
+[33mcommit ebf76a6659133c35ecd699653838b42bf4cc6ad6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: MichaelTraya <michael-evan.traya@capgemini.com>
+Date:   Thu Sep 22 14:04:54 2022 +0800
+
+    5th commit, changed txt file of subfolder
+
+[33mcommit 6175c4f4962abd1daa995249b17d134471e69b18[m
+Author: MichaelTraya <michael-evan.traya@capgemini.com>
+Date:   Thu Sep 22 14:02:47 2022 +0800
+
+    Added subfolder
+
+[33mcommit db61a2cbe1467f2c030cdd3a134f140954cfc8ec[m
+Author: MichaelTraya <michael-evan.traya@capgemini.com>
+Date:   Thu Sep 22 13:51:33 2022 +0800
+
+    Fourth commit
+
+[33mcommit 6e1a6dd10bd2972c52eaa2443c99128a9567a780[m
+Author: MichaelTraya <michael-evan.traya@capgemini.com>
+Date:   Thu Sep 22 13:48:53 2022 +0800
+
+    Third commit
+
+[33mcommit 937d0b6af1326aab5332e7f1a88eed33b3bc66e2[m
+Author: MichaelTraya <michael-evan.traya@capgemini.com>
+Date:   Thu Sep 22 13:47:03 2022 +0800
+
+    Second commit
+
+[33mcommit a16551b60e8c95dee1854d526fa683c6be223241[m
+Author: MichaelTraya <michael-evan.traya@capgemini.com>
+Date:   Thu Sep 22 13:42:53 2022 +0800
+
+    First Commit
